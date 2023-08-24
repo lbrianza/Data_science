@@ -102,3 +102,12 @@ using Recurrent Neural Networks (RNN). In particular, two types of architecture 
 The project is at this link:
 [RNN project](https://github.com/lbrianza/Data_science/blob/master/RNN_project/RNN_sales.ipynb).
 It can also be found in the folder 'RNN_project'.
+
+## 8) Train a chess engine
+
+#### In this project I trained a simple ML model to assess a chess position, returning the evaluation number (which tells who has the advantage, white or black, and by how much).
+
+The target is to create a simple 'chess engine' by training a simple ML model, using positions from real games each labelled with the evaluation.
+
+The project is at this link:
+[Chess engine](https://github.com/lbrianza/Data_science/blob/master/Chess_engine/Chess_engine.ipynb)

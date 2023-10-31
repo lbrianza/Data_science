@@ -111,3 +111,13 @@ The target is to create a simple 'chess engine' by training a simple ML model, u
 
 The project is at this link:
 [Chess engine](https://github.com/lbrianza/Data_science/blob/master/Chess_engine/Chess_engine.ipynb)
+
+
+## 9) Detect fake news using transformers
+
+#### In this project I built a fake news / real news classifier exploting a popular transformer model, BERT.
+
+The target is to build a classifier able to distinguish fake news from real news.
+
+The project is at this link:
+[Fake news detection](https://github.com/lbrianza/Data_science/blob/master/Transformers_Fake_News_Detection/Fake_news_detection.ipynb)
